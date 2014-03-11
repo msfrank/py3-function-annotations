@@ -1,4 +1,4 @@
 py3-function-annotations
 ========================
 
-Python3 Function Annotations presentation at SeaPIG
+Presentation done for SeaPIG on March 10, 2014
